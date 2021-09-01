@@ -1,0 +1,12 @@
+export const brandPrimary1 = "#6236ff";
+export const brandPrimary2 = "#8a58b9";
+export const brandPrimary3 = "#8300fe";
+export const brandPrimary4 = "#372e4d";
+export const brandSecondary1 = "#fa6400";
+export const brandSecondary2 = "#f7b500";
+export const logos = "#ffffff";
+export const sponsorBronze = "#a2755e";
+export const sponsorGold = "#ac8e68";
+export const sponsorSilver = "#98989d";
+export const textContent = "#eeeeee";
+export const textTalks = "#000000";

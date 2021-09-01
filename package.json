@@ -1,0 +1,26 @@
+{
+  "name": "root",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "scripts": {
+    "pkg": "manypkg run"
+  },
+  "devDependencies": {
+    "@manypkg/cli": "^0.18.0",
+    "dotenv-safe": "^8.2.0",
+    "lerna": "^3.22.1",
+    "prettier": "^2.3.2"
+  },
+  "prettier": {
+    "printWidth": 100,
+    "tabWidth": 2,
+    "semi": false,
+    "singleQuote": true,
+    "bracketSpacing": false,
+    "jsxBracketSameLine": false,
+    "arrowParens": "always",
+    "trailingComma": "none"
+  }
+}
