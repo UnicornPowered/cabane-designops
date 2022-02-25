@@ -38,7 +38,6 @@ function generateVariables(tokenName: string, file: string) {
 
       if (format.transform === 'ts') {
         fs.writeFileSync('./src/' + format.file, output)
-        fs.appendFileSync('./src/index.ts', `export * from './${tokenName}'\n`)
       } else {
         fs.writeFileSync('./dist/' + format.file, output)
       }

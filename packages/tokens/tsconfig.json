@@ -12,7 +12,7 @@
     "preserveSymlinks": true,
     "outDir": "./dist"
   },
-  "include": ["./src/index.ts"],
+  "include": ["./src/*"],
   "ts-node": {
     "compilerOptions": {
       "types": ["node"]

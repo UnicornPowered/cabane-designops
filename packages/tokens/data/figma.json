@@ -986,6 +986,224 @@
               "a": 1
             },
             "effects": []
+          },
+          {
+            "id": "405:9",
+            "name": "Spacing",
+            "type": "FRAME",
+            "blendMode": "PASS_THROUGH",
+            "children": [
+              {
+                "id": "405:11",
+                "name": "xl",
+                "type": "RECTANGLE",
+                "blendMode": "PASS_THROUGH",
+                "absoluteBoundingBox": {
+                  "x": 44,
+                  "y": -759,
+                  "width": 85,
+                  "height": 85
+                },
+                "preserveRatio": true,
+                "constraints": {
+                  "vertical": "TOP",
+                  "horizontal": "LEFT"
+                },
+                "fills": [
+                  {
+                    "blendMode": "NORMAL",
+                    "type": "SOLID",
+                    "color": {
+                      "r": 0.7686274647712708,
+                      "g": 0.7686274647712708,
+                      "b": 0.7686274647712708,
+                      "a": 1
+                    }
+                  }
+                ],
+                "strokes": [],
+                "strokeWeight": 1,
+                "strokeAlign": "INSIDE",
+                "effects": []
+              },
+              {
+                "id": "405:12",
+                "name": "lg",
+                "type": "RECTANGLE",
+                "blendMode": "PASS_THROUGH",
+                "absoluteBoundingBox": {
+                  "x": -41,
+                  "y": -759,
+                  "width": 65,
+                  "height": 65
+                },
+                "preserveRatio": true,
+                "constraints": {
+                  "vertical": "TOP",
+                  "horizontal": "LEFT"
+                },
+                "fills": [
+                  {
+                    "blendMode": "NORMAL",
+                    "type": "SOLID",
+                    "color": {
+                      "r": 0.7686274647712708,
+                      "g": 0.7686274647712708,
+                      "b": 0.7686274647712708,
+                      "a": 1
+                    }
+                  }
+                ],
+                "strokes": [],
+                "strokeWeight": 1,
+                "strokeAlign": "INSIDE",
+                "effects": []
+              },
+              {
+                "id": "405:13",
+                "name": "md",
+                "type": "RECTANGLE",
+                "blendMode": "PASS_THROUGH",
+                "absoluteBoundingBox": {
+                  "x": -106,
+                  "y": -759,
+                  "width": 45,
+                  "height": 45
+                },
+                "preserveRatio": true,
+                "constraints": {
+                  "vertical": "TOP",
+                  "horizontal": "LEFT"
+                },
+                "fills": [
+                  {
+                    "blendMode": "NORMAL",
+                    "type": "SOLID",
+                    "color": {
+                      "r": 0.7686274647712708,
+                      "g": 0.7686274647712708,
+                      "b": 0.7686274647712708,
+                      "a": 1
+                    }
+                  }
+                ],
+                "strokes": [],
+                "strokeWeight": 1,
+                "strokeAlign": "INSIDE",
+                "effects": []
+              },
+              {
+                "id": "405:14",
+                "name": "sm",
+                "type": "RECTANGLE",
+                "blendMode": "PASS_THROUGH",
+                "absoluteBoundingBox": {
+                  "x": -151,
+                  "y": -759,
+                  "width": 25,
+                  "height": 25
+                },
+                "preserveRatio": true,
+                "constraints": {
+                  "vertical": "TOP",
+                  "horizontal": "LEFT"
+                },
+                "fills": [
+                  {
+                    "blendMode": "NORMAL",
+                    "type": "SOLID",
+                    "color": {
+                      "r": 0.7686274647712708,
+                      "g": 0.7686274647712708,
+                      "b": 0.7686274647712708,
+                      "a": 1
+                    }
+                  }
+                ],
+                "strokes": [],
+                "strokeWeight": 1,
+                "strokeAlign": "INSIDE",
+                "effects": []
+              },
+              {
+                "id": "405:15",
+                "name": "xs",
+                "type": "RECTANGLE",
+                "blendMode": "PASS_THROUGH",
+                "absoluteBoundingBox": {
+                  "x": -186,
+                  "y": -759,
+                  "width": 15,
+                  "height": 15
+                },
+                "preserveRatio": true,
+                "constraints": {
+                  "vertical": "TOP",
+                  "horizontal": "LEFT"
+                },
+                "fills": [
+                  {
+                    "blendMode": "NORMAL",
+                    "type": "SOLID",
+                    "color": {
+                      "r": 0.7686274647712708,
+                      "g": 0.7686274647712708,
+                      "b": 0.7686274647712708,
+                      "a": 1
+                    }
+                  }
+                ],
+                "strokes": [],
+                "strokeWeight": 1,
+                "strokeAlign": "INSIDE",
+                "effects": []
+              }
+            ],
+            "absoluteBoundingBox": {
+              "x": -217,
+              "y": -771,
+              "width": 628,
+              "height": 160
+            },
+            "constraints": {
+              "vertical": "TOP",
+              "horizontal": "LEFT"
+            },
+            "clipsContent": true,
+            "background": [
+              {
+                "blendMode": "NORMAL",
+                "type": "SOLID",
+                "color": {
+                  "r": 1,
+                  "g": 1,
+                  "b": 1,
+                  "a": 1
+                }
+              }
+            ],
+            "fills": [
+              {
+                "blendMode": "NORMAL",
+                "type": "SOLID",
+                "color": {
+                  "r": 1,
+                  "g": 1,
+                  "b": 1,
+                  "a": 1
+                }
+              }
+            ],
+            "strokes": [],
+            "strokeWeight": 1,
+            "strokeAlign": "INSIDE",
+            "backgroundColor": {
+              "r": 1,
+              "g": 1,
+              "b": 1,
+              "a": 1
+            },
+            "effects": []
           }
         ],
         "backgroundColor": {
@@ -1129,9 +1347,9 @@
     }
   },
   "name": "designops-2",
-  "lastModified": "2022-02-25T20:00:47Z",
-  "thumbnailUrl": "https://s3-alpha-sig.figma.com/thumbnails/1b98de4b-9009-4bb7-b965-f7beec4d6aae?Expires=1646611200&Signature=QRwQ2t2ZSCRt-u3K-jUdpFlAOz3O7RdTaz2qPw-aydWWwhL5A~tSwXcPgzq240dR3hvNvyLI~05o9XsldSJvPyqYVazw2I9YNj-5k1MC-gO8XClvWOdL654PJxDH~RowMZNewggdlWe9ncWpdytmldOMI3AdaAYTSWb5mjtU5F24TkxkxyolqP7NbhQdJYWRtaUMOof1wYlaGomO~ldx1FZvGajhv3v3rLpoI9xG7eXTi-VSVWdCaEFx3rz9QcKvTx0tnZtgojbWZM~hlPvXY66HmZ4yjl9~J7WfmvnC8Q21kBPGI5yO48LAEgiTGVB4kmuMcFlT~H95PdXEPtrTSQ__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA",
-  "version": "1595600083",
+  "lastModified": "2022-02-25T20:51:18Z",
+  "thumbnailUrl": "https://s3-alpha-sig.figma.com/thumbnails/8b437e38-b812-4623-9b55-7a886a5eccba?Expires=1646611200&Signature=UqHDgdWh8kg9cP466Ya11IsiNYEvbx6X5Mo4Ucj7MjYDO1FfOcOZswTxO2ux0G5zzPWXKxtLma2JlfWIU9igqjVCaC5Vgh3D7Y-AvwW~abbOWG5gSzkyBCepvqm2Rgvc4Yb4vL0J5BVMKaO2VjkJrG5oM7Os9lMeJIIs7YF-yGIxLXjdreY1~CRYwemjVfR6fH8T7behpDgiOd-aQSW23D27GxMj8b674e60qgQCuADT3ay6Mq7dkZEI2~PAYrVtmc8o8RRhko9AB53LCcho-8E67VlFIT~ei2BV4-Y4KgNPH7EuQqdaiedxeX4vLvjbcW4au2AbhA3q0hm~D8CAsg__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA",
+  "version": "1595662790",
   "role": "owner",
   "editorType": "figma",
   "linkAccess": "view"
