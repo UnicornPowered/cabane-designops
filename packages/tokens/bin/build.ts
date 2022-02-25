@@ -10,9 +10,8 @@ rimraf.sync('./dist/*')
 const file = figmaJSON as Figma.FileResponse
 
 try {
-  
-  // generateColor(file)
-  // generateText(file)
+  generateColor(file)
+  generateText(file)
 } catch (err) {
   console.error('An error occured while building tokens', err)
 }
