@@ -928,359 +928,12 @@
                 "effects": []
               },
               {
-                "id": "305:31",
-                "name": "Green1",
-                "type": "VECTOR",
-                "blendMode": "PASS_THROUGH",
-                "absoluteBoundingBox": {
-                  "x": -400,
-                  "y": -919,
-                  "width": 100,
-                  "height": 40
-                },
-                "constraints": {
-                  "vertical": "TOP",
-                  "horizontal": "LEFT"
-                },
-                "fills": [
-                  {
-                    "blendMode": "NORMAL",
-                    "type": "SOLID",
-                    "color": {
-                      "r": 0.062745101749897,
-                      "g": 0.27450981736183167,
-                      "b": 0.15294118225574493,
-                      "a": 1
-                    }
-                  }
-                ],
-                "strokes": [],
-                "strokeWeight": 1,
-                "strokeAlign": "INSIDE",
-                "effects": []
-              },
-              {
-                "id": "305:32",
-                "name": "Green2",
-                "type": "VECTOR",
-                "blendMode": "PASS_THROUGH",
-                "absoluteBoundingBox": {
-                  "x": -400,
-                  "y": -839,
-                  "width": 100,
-                  "height": 40
-                },
-                "constraints": {
-                  "vertical": "TOP",
-                  "horizontal": "LEFT"
-                },
-                "fills": [
-                  {
-                    "blendMode": "NORMAL",
-                    "type": "SOLID",
-                    "color": {
-                      "r": 0.0784313753247261,
-                      "g": 0.3333333432674408,
-                      "b": 0.18431372940540314,
-                      "a": 1
-                    }
-                  }
-                ],
-                "strokes": [],
-                "strokeWeight": 1,
-                "strokeAlign": "INSIDE",
-                "styles": {
-                  "fill": "305:12"
-                },
-                "effects": []
-              },
-              {
-                "id": "305:33",
-                "name": "Green3",
-                "type": "VECTOR",
-                "blendMode": "PASS_THROUGH",
-                "absoluteBoundingBox": {
-                  "x": -400,
-                  "y": -759,
-                  "width": 100,
-                  "height": 40
-                },
-                "constraints": {
-                  "vertical": "TOP",
-                  "horizontal": "LEFT"
-                },
-                "fills": [
-                  {
-                    "blendMode": "NORMAL",
-                    "type": "SOLID",
-                    "color": {
-                      "r": 0.10196078568696976,
-                      "g": 0.4274509847164154,
-                      "b": 0.23529411852359772,
-                      "a": 1
-                    }
-                  }
-                ],
-                "strokes": [],
-                "strokeWeight": 1,
-                "strokeAlign": "INSIDE",
-                "styles": {
-                  "fill": "305:13"
-                },
-                "effects": []
-              },
-              {
-                "id": "305:34",
-                "name": "Green4",
-                "type": "VECTOR",
-                "blendMode": "PASS_THROUGH",
-                "absoluteBoundingBox": {
-                  "x": -400,
-                  "y": -679,
-                  "width": 100,
-                  "height": 40
-                },
-                "constraints": {
-                  "vertical": "TOP",
-                  "horizontal": "LEFT"
-                },
-                "fills": [
-                  {
-                    "blendMode": "NORMAL",
-                    "type": "SOLID",
-                    "color": {
-                      "r": 0.11372549086809158,
-                      "g": 0.48627451062202454,
-                      "b": 0.2705882489681244,
-                      "a": 1
-                    }
-                  }
-                ],
-                "strokes": [],
-                "strokeWeight": 1,
-                "strokeAlign": "INSIDE",
-                "styles": {
-                  "fill": "305:14"
-                },
-                "effects": []
-              },
-              {
-                "id": "305:35",
-                "name": "Green5",
-                "type": "VECTOR",
-                "blendMode": "PASS_THROUGH",
-                "absoluteBoundingBox": {
-                  "x": -400,
-                  "y": -599,
-                  "width": 100,
-                  "height": 40
-                },
-                "constraints": {
-                  "vertical": "TOP",
-                  "horizontal": "LEFT"
-                },
-                "fills": [
-                  {
-                    "blendMode": "NORMAL",
-                    "type": "SOLID",
-                    "color": {
-                      "r": 0.1411764770746231,
-                      "g": 0.6078431606292725,
-                      "b": 0.33725491166114807,
-                      "a": 1
-                    }
-                  }
-                ],
-                "strokes": [],
-                "strokeWeight": 1,
-                "strokeAlign": "INSIDE",
-                "styles": {
-                  "fill": "305:15"
-                },
-                "effects": []
-              },
-              {
-                "id": "305:36",
-                "name": "Green6",
-                "type": "VECTOR",
-                "blendMode": "PASS_THROUGH",
-                "absoluteBoundingBox": {
-                  "x": -400,
-                  "y": -519,
-                  "width": 100,
-                  "height": 40
-                },
-                "constraints": {
-                  "vertical": "TOP",
-                  "horizontal": "LEFT"
-                },
-                "fills": [
-                  {
-                    "blendMode": "NORMAL",
-                    "type": "SOLID",
-                    "color": {
-                      "r": 0.1764705926179886,
-                      "g": 0.7529411911964417,
-                      "b": 0.4156862795352936,
-                      "a": 1
-                    }
-                  }
-                ],
-                "strokes": [],
-                "strokeWeight": 1,
-                "strokeAlign": "INSIDE",
-                "styles": {
-                  "fill": "305:16"
-                },
-                "effects": []
-              },
-              {
-                "id": "305:37",
-                "name": "Green7",
-                "type": "VECTOR",
-                "blendMode": "PASS_THROUGH",
-                "absoluteBoundingBox": {
-                  "x": -400,
-                  "y": -439,
-                  "width": 100,
-                  "height": 40
-                },
-                "constraints": {
-                  "vertical": "TOP",
-                  "horizontal": "LEFT"
-                },
-                "fills": [
-                  {
-                    "blendMode": "NORMAL",
-                    "type": "SOLID",
-                    "color": {
-                      "r": 0.45098039507865906,
-                      "g": 0.8705882430076599,
-                      "b": 0.6235294342041016,
-                      "a": 1
-                    }
-                  }
-                ],
-                "strokes": [],
-                "strokeWeight": 1,
-                "strokeAlign": "INSIDE",
-                "styles": {
-                  "fill": "305:17"
-                },
-                "effects": []
-              },
-              {
-                "id": "305:38",
-                "name": "Green8",
-                "type": "VECTOR",
-                "blendMode": "PASS_THROUGH",
-                "absoluteBoundingBox": {
-                  "x": -400,
-                  "y": -359,
-                  "width": 100,
-                  "height": 40
-                },
-                "constraints": {
-                  "vertical": "TOP",
-                  "horizontal": "LEFT"
-                },
-                "fills": [
-                  {
-                    "blendMode": "NORMAL",
-                    "type": "SOLID",
-                    "color": {
-                      "r": 0.6980392336845398,
-                      "g": 0.929411768913269,
-                      "b": 0.7960784435272217,
-                      "a": 1
-                    }
-                  }
-                ],
-                "strokes": [],
-                "strokeWeight": 1,
-                "strokeAlign": "INSIDE",
-                "styles": {
-                  "fill": "305:18"
-                },
-                "effects": []
-              },
-              {
-                "id": "305:39",
-                "name": "Green9",
-                "type": "VECTOR",
-                "blendMode": "PASS_THROUGH",
-                "absoluteBoundingBox": {
-                  "x": -400,
-                  "y": -279,
-                  "width": 100,
-                  "height": 40
-                },
-                "constraints": {
-                  "vertical": "TOP",
-                  "horizontal": "LEFT"
-                },
-                "fills": [
-                  {
-                    "blendMode": "NORMAL",
-                    "type": "SOLID",
-                    "color": {
-                      "r": 0.8470588326454163,
-                      "g": 0.9647058844566345,
-                      "b": 0.8980392217636108,
-                      "a": 1
-                    }
-                  }
-                ],
-                "strokes": [],
-                "strokeWeight": 1,
-                "strokeAlign": "INSIDE",
-                "styles": {
-                  "fill": "305:19"
-                },
-                "effects": []
-              },
-              {
-                "id": "305:40",
-                "name": "Green10",
-                "type": "VECTOR",
-                "blendMode": "PASS_THROUGH",
-                "absoluteBoundingBox": {
-                  "x": -400,
-                  "y": -199,
-                  "width": 100,
-                  "height": 40
-                },
-                "constraints": {
-                  "vertical": "TOP",
-                  "horizontal": "LEFT"
-                },
-                "fills": [
-                  {
-                    "blendMode": "NORMAL",
-                    "type": "SOLID",
-                    "color": {
-                      "r": 0.9176470637321472,
-                      "g": 0.9803921580314636,
-                      "b": 0.9450980424880981,
-                      "a": 1
-                    }
-                  }
-                ],
-                "strokes": [],
-                "strokeWeight": 1,
-                "strokeAlign": "INSIDE",
-                "styles": {
-                  "fill": "305:20"
-                },
-                "effects": []
-              },
-              {
                 "id": "305:52",
                 "name": "Purple1",
                 "type": "VECTOR",
                 "blendMode": "PASS_THROUGH",
                 "absoluteBoundingBox": {
-                  "x": -283,
+                  "x": -388,
                   "y": -919,
                   "width": 100,
                   "height": 40
@@ -1315,7 +968,7 @@
                 "type": "VECTOR",
                 "blendMode": "PASS_THROUGH",
                 "absoluteBoundingBox": {
-                  "x": -283,
+                  "x": -388,
                   "y": -839,
                   "width": 100,
                   "height": 40
@@ -1350,7 +1003,7 @@
                 "type": "VECTOR",
                 "blendMode": "PASS_THROUGH",
                 "absoluteBoundingBox": {
-                  "x": -283,
+                  "x": -388,
                   "y": -759,
                   "width": 100,
                   "height": 40
@@ -1385,7 +1038,7 @@
                 "type": "VECTOR",
                 "blendMode": "PASS_THROUGH",
                 "absoluteBoundingBox": {
-                  "x": -283,
+                  "x": -388,
                   "y": -679,
                   "width": 100,
                   "height": 40
@@ -1420,7 +1073,7 @@
                 "type": "VECTOR",
                 "blendMode": "PASS_THROUGH",
                 "absoluteBoundingBox": {
-                  "x": -283,
+                  "x": -388,
                   "y": -599,
                   "width": 100,
                   "height": 40
@@ -1455,7 +1108,7 @@
                 "type": "VECTOR",
                 "blendMode": "PASS_THROUGH",
                 "absoluteBoundingBox": {
-                  "x": -283,
+                  "x": -388,
                   "y": -519,
                   "width": 100,
                   "height": 40
@@ -1490,7 +1143,7 @@
                 "type": "VECTOR",
                 "blendMode": "PASS_THROUGH",
                 "absoluteBoundingBox": {
-                  "x": -283,
+                  "x": -388,
                   "y": -439,
                   "width": 100,
                   "height": 40
@@ -1504,9 +1157,9 @@
                     "blendMode": "NORMAL",
                     "type": "SOLID",
                     "color": {
-                      "r": 0.7921568751335144,
-                      "g": 0.7921568751335144,
-                      "b": 0.7921568751335144,
+                      "r": 0.7803921699523926,
+                      "g": 0.7686274647712708,
+                      "b": 0.9882352948188782,
                       "a": 1
                     }
                   }
@@ -1515,7 +1168,7 @@
                 "strokeWeight": 1,
                 "strokeAlign": "INSIDE",
                 "styles": {
-                  "fill": "305:47"
+                  "fill": "309:2"
                 },
                 "effects": []
               },
@@ -1525,7 +1178,7 @@
                 "type": "VECTOR",
                 "blendMode": "PASS_THROUGH",
                 "absoluteBoundingBox": {
-                  "x": -283,
+                  "x": -388,
                   "y": -359,
                   "width": 100,
                   "height": 40
@@ -1560,7 +1213,7 @@
                 "type": "VECTOR",
                 "blendMode": "PASS_THROUGH",
                 "absoluteBoundingBox": {
-                  "x": -283,
+                  "x": -388,
                   "y": -279,
                   "width": 100,
                   "height": 40
@@ -1595,7 +1248,7 @@
                 "type": "VECTOR",
                 "blendMode": "PASS_THROUGH",
                 "absoluteBoundingBox": {
-                  "x": -283,
+                  "x": -388,
                   "y": -199,
                   "width": 100,
                   "height": 40
@@ -1807,60 +1460,6 @@
       "styleType": "FILL",
       "description": ""
     },
-    "305:12": {
-      "key": "4b8ae59654d80294665d68eaff9bbfda60408dc7",
-      "name": "Green2",
-      "styleType": "FILL",
-      "description": ""
-    },
-    "305:13": {
-      "key": "9ac9aed38d3db3e6a46f6621eb0c9d01eb87560f",
-      "name": "Green3",
-      "styleType": "FILL",
-      "description": ""
-    },
-    "305:14": {
-      "key": "9b16e9c552f2fbedb11e953377ae418015e6d2ad",
-      "name": "Green4",
-      "styleType": "FILL",
-      "description": ""
-    },
-    "305:15": {
-      "key": "0315130cacee2db3c27f4dfb26886cc3c8d3758e",
-      "name": "Green5",
-      "styleType": "FILL",
-      "description": ""
-    },
-    "305:16": {
-      "key": "78f8aad68dde80923d4c020bea2826a1066cbf44",
-      "name": "Green6",
-      "styleType": "FILL",
-      "description": ""
-    },
-    "305:17": {
-      "key": "8495371e71e50ac9e3c2a1009c275170af77d1ed",
-      "name": "Green7",
-      "styleType": "FILL",
-      "description": ""
-    },
-    "305:18": {
-      "key": "bf51233054f6261ad1303cd3df80d47cfe3b1d7e",
-      "name": "Green8",
-      "styleType": "FILL",
-      "description": ""
-    },
-    "305:19": {
-      "key": "2b9a9b95f568b19d686a6acd4e36ab3758646598",
-      "name": "Green9",
-      "styleType": "FILL",
-      "description": ""
-    },
-    "305:20": {
-      "key": "d44e2110055a24f13278e2e29f82e9f6bc449e41",
-      "name": "Green10",
-      "styleType": "FILL",
-      "description": ""
-    },
     "305:41": {
       "key": "d196c6a41b4a178289c7793f186b42c19e5afc7f",
       "name": "Purple1",
@@ -1897,9 +1496,9 @@
       "styleType": "FILL",
       "description": ""
     },
-    "305:47": {
-      "key": "c583db48892116fce4bfc4475ac9736f79345c8b",
-      "name": "Grey7",
+    "309:2": {
+      "key": "4cef2e6777d0001012a8bec384de4f5cffd840c0",
+      "name": "Purple7",
       "styleType": "FILL",
       "description": ""
     },
@@ -1922,9 +1521,9 @@
       "description": ""
     }
   },
-  "name": "designops",
-  "lastModified": "2022-02-25T19:04:40Z",
-  "thumbnailUrl": "https://s3-alpha-sig.figma.com/thumbnails/5708dda1-eace-481b-99b5-f431ba9d5789?Expires=1646611200&Signature=OG37y1wLF9peNwq-u1KbQnSeJAEzS54fV3ltp1gBJWpFejlfbYrKPtR5frSajQk5Pm4nxp7tyjhlAHQKRC5zr-t3zMNLbz6b6l94HCE80Lmny5cpdNMIz3QD9eny4Ld8BNNiL57VWN8ACq0VvAFsRs-LotDw2E-0N99yHnuKsi2BACJOdUjoiDLk2Odc~aK8J~4LwkbSkshhxe2rnPZfnEFoBAOD78Zo4Mj6u4FCuo~QPy0H1gh-HH9Ltw-sQlYQ8NPS~UL3ySyB5i77fE5vdZgIkGFiDNvuXZe7~0mx3fKdJ7jPhPjxPBU9N6VDiDsW6mgbyjUvtm2ulpF~n1j-pw__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA",
+  "name": "designops-1",
+  "lastModified": "2022-02-25T19:27:04Z",
+  "thumbnailUrl": "https://s3-alpha-sig.figma.com/thumbnails/cd8e229c-4f1e-476b-ba25-5ad0badb1cfb?Expires=1646611200&Signature=MB3V-90rsprLZ~SYAJSqaIAxRgLXjqpvmOlA7zLHIOmEbf1nNccpmbPl3cnBrXsNJaog4ODU0MZTeLzBra55ui~FE1kmQSkPuLMYJ39pe-hVyGWZpYjb4z3fZYqB8wXLT4Ha7~DgpWcUUN3X5jG4hePEeVXwdb~OISbusUiq18W4z2jwCbBm6ApABqaWTNDDy83a98HoLO50lri-PBbg3BhSfiiNurC9akE9zO~m6yGybX~5VNtnrucGR~pfk-qvnBJTISJv0Q~jZm94yR0-mkVVBPGdAtosCE4YSZIebazsP8KtojtopmYPxqDpnRbanOb~P~mkECuNxPBj-NG51g__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA",
   "version": "1595475707",
   "role": "owner",
   "editorType": "figma",

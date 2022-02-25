@@ -5,6 +5,10 @@ if (!process.env.FIGMA_TOKEN) {
   throw new Error('Missing expected FIGMA_TOKEN env variable.')
 }
 const FIGMA_TOKEN: string = process.env.FIGMA_TOKEN
+
+// THEME 1: mF4gTetKuGO7Zx9zWtdWeu
+// THEME 2: 9Q2LMkBsq44BNWb2p059pZ
+
 const FILE_ID = 'mF4gTetKuGO7Zx9zWtdWeu'
 
 const client = Figma.Client({personalAccessToken: FIGMA_TOKEN})
