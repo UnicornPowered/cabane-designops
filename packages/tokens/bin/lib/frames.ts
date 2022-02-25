@@ -1,4 +1,5 @@
 export enum Frames {
   Color = 'Color',
-  Text = 'Text'
+  Radii = 'Radii',
+  Text = 'Text',
 }
