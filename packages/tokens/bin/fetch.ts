@@ -5,12 +5,7 @@ if (!process.env.FIGMA_TOKEN) {
   throw new Error('Missing expected FIGMA_TOKEN env variable.')
 }
 const FIGMA_TOKEN: string = process.env.FIGMA_TOKEN
-// cabane-tokens
-// File link (READONLY): https://www.figma.com/file/EI5g7Oj4omBZBS5mqkhLDc/cabane-tokens
-const FILE_ID = '7TFAZecES7fCaxu4ch8dGH'
-// cabane-tokens-theme2
-// File link (READONLY): https://www.figma.com/file/Uu43ZkwfRdt812Pszgldhq/cabane-tokens-theme2
-// const FILE_ID = 'TkewhsGIfYZraRNcsczAdo'
+const FILE_ID = 'agTmAGAndTI5gbIK3HwOps'
 
 const client = Figma.Client({personalAccessToken: FIGMA_TOKEN})
 
